@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/banner_readme.png" alt="Project Banner" width="100%" style="border-radius: 10px;">
 
-  <h1>🎓 Student Performance Prediction</h1>
+  <h1>🎓 Student Performance ML Predictor</h1>
   <p><strong>Machine Learning Final Project: Educational Data Analysis & Forecasting</strong></p>
 
   <p>
@@ -32,6 +32,7 @@ Furthermore, it analyzes which variables are most influential in students' schoo
 The project follows a modular structure to ensure reproducibility and clean code management:
 
 ```text
+├── 📂 assets/                   # Images and other resources
 ├── 📂 docs/                     # Official Final Report
 │
 ├── 📂 src/                      # Source Code & Jupyter Notebooks
@@ -93,10 +94,12 @@ However, the folder and file names can be easily modified as needed, just like t
 ## 👤 Author
 
 * **Andrés Gil Vicente**
-* *Degree in Mathematical Engineering and Artificial Intelligence (iMAT)*
-* *Universidad Pontificia Comillas - ICAI*
+  * *Degree in Mathematical Engineering and Artificial Intelligence (iMAT)*
+  * *Machine Learning Course*
+  * *Universidad Pontificia Comillas - ICAI*
 
 *Completion Date: May 4, 2025*
+
 
 
 
